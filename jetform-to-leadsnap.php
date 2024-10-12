@@ -57,6 +57,7 @@ function jfl_send_to_leadsnap($form)
         '__queried_post_id',
         '_jet_engine_booking_form_id',
         '_jet_engine_refer',
+        '_captcha_token',
         'email',
         'phone',
         'name',
